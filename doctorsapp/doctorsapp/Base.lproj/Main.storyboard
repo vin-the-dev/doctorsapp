@@ -292,7 +292,7 @@
                                     </constraints>
                                 </tableViewCellContentView>
                             </tableViewCell>
-                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="44" id="rQt-GG-r3C" userLabel="segmentedSectionCell">
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="segmentedSectionCell" rowHeight="44" id="rQt-GG-r3C" userLabel="segmentedSectionCell">
                                 <rect key="frame" x="0.0" y="336" width="600" height="44"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="rQt-GG-r3C" id="f1d-IA-JvK">
@@ -313,7 +313,7 @@
                                     </constraints>
                                 </tableViewCellContentView>
                             </tableViewCell>
-                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="125" id="eJd-Ml-jaa" userLabel="clinicCell">
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="clinicCell" rowHeight="125" id="eJd-Ml-jaa" userLabel="clinicCell">
                                 <rect key="frame" x="0.0" y="380" width="600" height="125"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="eJd-Ml-jaa" id="YOa-iY-RMC">
